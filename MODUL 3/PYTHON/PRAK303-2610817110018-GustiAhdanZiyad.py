@@ -6,3 +6,4 @@ elif N < 0:
     print("negatif")
 else:
     print("nol")
+

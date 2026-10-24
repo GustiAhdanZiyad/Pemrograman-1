@@ -10,3 +10,4 @@ elif a == 10 or a >= 20 and a < 100:
     print("Puluhan")
 else:
     print("Anda Menginput Melebihi Limit Bilangan")
+
