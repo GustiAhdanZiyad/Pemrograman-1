@@ -12,3 +12,4 @@ int main()
     printf("Jumlah variabel tersebut adalah %d\n", total);
     return 0;
 }
+

@@ -6,3 +6,4 @@ print(f"Harga sepatu A adalah {shoe_a}")
 print(f"Harga sepatu B adalah {shoe_b}")
 print(f"Sepatu A mendapat diskon 13% sehingga harganya menjadi {discount_a}")
 print(f"Sepatu B mendapat diskon 21% sehingga harganya menjadi {discount_b}")
+

@@ -11,3 +11,4 @@ int main()
     printf("Hasil dari a ditambah b dikali x dan dibagi y adalah %.2f\n", result);
     return 0;
 }
+

@@ -14,3 +14,4 @@ int main() {
     printf("Biaya yang diperlukan Pak Dengklek adalah: Rp %d\n", total_cost);
     return 0;
 }
+

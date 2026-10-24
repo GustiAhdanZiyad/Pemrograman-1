@@ -10,3 +10,4 @@ int main()
     printf("Hasil dari a dikali b dibagi c adalah %f\n", result);
     return 0;
 }
+

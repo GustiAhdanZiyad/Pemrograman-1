@@ -9,3 +9,4 @@ int main() {
     printf("Jumlah pasukan yang harus dikalahkan setiap pahlawan adalah %d pasukan\n", result);
     return 0;
 }
+

@@ -23,3 +23,4 @@ int main()
     printf("Luas = %d cm\n", area);
     return 0;
 }
+

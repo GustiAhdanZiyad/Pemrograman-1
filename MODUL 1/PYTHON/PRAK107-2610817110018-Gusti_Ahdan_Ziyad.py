@@ -11,3 +11,4 @@ print(f"Keliling Tanah Pak Dengklek adalah {perimeter}")
 print(f"Harga tanah Per Meter adalah {price_per_meter}")
 print("Jawaban:")
 print(f"Biaya yang diperlukan Pak Dengklek adalah: Rp {total_cost}")
+

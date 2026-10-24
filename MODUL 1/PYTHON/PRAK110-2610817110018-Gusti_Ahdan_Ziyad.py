@@ -15,3 +15,4 @@ print(f"Sisi B = {side} cm")
 print(f"Sisi C = {height} cm")
 print(f"Keliling = {perimeter} cm")
 print(f"Luas = {area} cm")
+
