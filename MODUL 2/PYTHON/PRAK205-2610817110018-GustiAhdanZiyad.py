@@ -26,3 +26,4 @@ print(f"Alas = {C:.0f} cm")
 print(f"Tinggi = {A:.0f} cm")
 print(f"Keliling = {Keliling:.0f} cm")
 print(f"Luas = {Luas:.0f} cm^2")
+

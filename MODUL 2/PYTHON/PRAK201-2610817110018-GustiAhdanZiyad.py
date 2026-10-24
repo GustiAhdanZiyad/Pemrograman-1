@@ -14,3 +14,4 @@ print(f"Tempat/Tanggal Lahir    : {TTL}")
 print(f"Alamat                  : {Alamat}")
 print(f"Hobby                   : {Hobi}")
 print(f"No. HP                  : {HP}")
+
