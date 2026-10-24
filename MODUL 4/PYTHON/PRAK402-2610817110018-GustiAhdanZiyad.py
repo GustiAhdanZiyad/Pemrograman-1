@@ -12,3 +12,4 @@ else:
 for i in range(genap, 0, -2):
     print(i, end=" ")
 print()
+

@@ -39,3 +39,4 @@ while True:
             print(f"Hasil Pembagian antara {nilai1:.2f} dengan {nilai2:.2f} adalah {hasil:.2f}")      
     else:
         print("Input anda salah, silahkan coba lagi\n")
+

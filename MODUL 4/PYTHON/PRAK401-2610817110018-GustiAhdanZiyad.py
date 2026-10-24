@@ -7,3 +7,4 @@ for i in range(1, 51):
     else:
         print(i, end=" ")
 print()
+
