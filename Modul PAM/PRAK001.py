@@ -17,3 +17,4 @@ for Barang in Daftar_Barang:
         print(f"- {Barang} (Barang dengan jumlah huruf kurang dari 5)")
 
 print(f"Total: {len(Daftar_Barang)} Barang.")
+

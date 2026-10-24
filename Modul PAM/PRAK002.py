@@ -11,3 +11,4 @@ elif(Nilai >= 60):
     print(f"Grade {Nama} adalah D-")
 elif(Nilai < 60):
     print(f"Grade {Nama} adalah E")
+

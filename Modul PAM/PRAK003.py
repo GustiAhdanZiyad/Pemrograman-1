@@ -9,3 +9,4 @@ if Total_Bayar > 20000:
 else:
     print("Maaf, belum mencapai batas minimal diskon")
 print(f"Total yang harus dibayar: Rp{int(Total_Bayar)}")
+
