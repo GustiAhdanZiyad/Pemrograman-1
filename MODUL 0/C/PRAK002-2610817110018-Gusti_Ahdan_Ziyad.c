@@ -6,3 +6,4 @@ int main()
     printf ("Selamat Malam, Gusti Ahdan Ziyad\n");
     return 0 ;
 }
+
