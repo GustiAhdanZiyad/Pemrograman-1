@@ -7,3 +7,4 @@ def hanoi_steps(n):
 n = int(input())
 
 print("Jumlah langkah minimum untuk " + str(n) + " cakram adalah " + str(hanoi_steps(n)))
+

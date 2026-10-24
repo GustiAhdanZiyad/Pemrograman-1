@@ -7,3 +7,4 @@ def sum_digits(n):
 n = int(input())
 
 print("Jumlah digit dari " + str(n) + " adalah " + str(sum_digits(n)))
+
